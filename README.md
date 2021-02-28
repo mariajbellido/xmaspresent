@@ -1,6 +1,6 @@
 # CSS CHRISTMAS PRESENT 
 
-I have build a Christmas present box that animates open when you hover over it. 
+I have built a Christmas present box that animates open when you hover over it. 
 
 Then, it reveals a Xmas promo inside. 
 
